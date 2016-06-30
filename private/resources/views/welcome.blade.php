@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Welkam tu Peredais</div>
+                <div class="title">Welkam tu Peredais Update from svn</div>
             </div>
         </div>
     </body>
